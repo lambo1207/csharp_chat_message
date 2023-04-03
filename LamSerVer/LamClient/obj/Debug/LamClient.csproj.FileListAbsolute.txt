@@ -1,0 +1,12 @@
+D:\Winform\ThiCuoiKy\LamSerVer\LamClient\bin\Debug\LamClient.exe.config
+D:\Winform\ThiCuoiKy\LamSerVer\LamClient\bin\Debug\LamClient.exe
+D:\Winform\ThiCuoiKy\LamSerVer\LamClient\bin\Debug\LamClient.pdb
+D:\Winform\ThiCuoiKy\LamSerVer\LamClient\obj\Debug\LamClient.csproj.AssemblyReference.cache
+D:\Winform\ThiCuoiKy\LamSerVer\LamClient\obj\Debug\LamClient.csproj.SuggestedBindingRedirects.cache
+D:\Winform\ThiCuoiKy\LamSerVer\LamClient\obj\Debug\LamClient.Properties.Resources.resources
+D:\Winform\ThiCuoiKy\LamSerVer\LamClient\obj\Debug\LamClient.csproj.GenerateResource.cache
+D:\Winform\ThiCuoiKy\LamSerVer\LamClient\obj\Debug\LamClient.csproj.CoreCompileInputs.cache
+D:\Winform\ThiCuoiKy\LamSerVer\LamClient\obj\Debug\LamClient.exe
+D:\Winform\ThiCuoiKy\LamSerVer\LamClient\obj\Debug\LamClient.pdb
+D:\Winform\ThiCuoiKy\LamSerVer\LamClient\obj\Debug\LamClient.ClientLam.resources
+D:\Winform\ThiCuoiKy\LamSerVer\LamClient\obj\Debug\LamClient.User.resources

@@ -1,0 +1,11 @@
+D:\Winform\ThiCuoiKy\LamSerVer\LamSerVer\bin\Debug\LamSerVer.exe.config
+D:\Winform\ThiCuoiKy\LamSerVer\LamSerVer\bin\Debug\LamSerVer.exe
+D:\Winform\ThiCuoiKy\LamSerVer\LamSerVer\bin\Debug\LamSerVer.pdb
+D:\Winform\ThiCuoiKy\LamSerVer\LamSerVer\obj\Debug\LamSerVer.csproj.AssemblyReference.cache
+D:\Winform\ThiCuoiKy\LamSerVer\LamSerVer\obj\Debug\LamSerVer.csproj.SuggestedBindingRedirects.cache
+D:\Winform\ThiCuoiKy\LamSerVer\LamSerVer\obj\Debug\LamSerVer.Properties.Resources.resources
+D:\Winform\ThiCuoiKy\LamSerVer\LamSerVer\obj\Debug\LamSerVer.csproj.GenerateResource.cache
+D:\Winform\ThiCuoiKy\LamSerVer\LamSerVer\obj\Debug\LamSerVer.csproj.CoreCompileInputs.cache
+D:\Winform\ThiCuoiKy\LamSerVer\LamSerVer\obj\Debug\LamSerVer.exe
+D:\Winform\ThiCuoiKy\LamSerVer\LamSerVer\obj\Debug\LamSerVer.pdb
+D:\Winform\ThiCuoiKy\LamSerVer\LamSerVer\obj\Debug\LamSerVer.ServerLam.resources
